@@ -1,4 +1,4 @@
- Unity Horror Game (Prototype)
+ Unity Horror Game 
 
 This is a short first-person horror prototype built in Unity, focused on creating tension using simple mechanics like a flashlight, battery system, and monster AI.
 
